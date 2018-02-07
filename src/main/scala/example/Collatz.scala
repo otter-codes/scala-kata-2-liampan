@@ -1,28 +1,30 @@
-package example
+//package example
+//
+//object Collatz extends App {
+//
+//  val StartNum:Int= 20
+//  val list : List[Int] = List(StartNum)
+//
+//  def collartz(num :Int,list: List[Int]):(Int,List[Int]) = {
+//    if (num == 1){num}
+//    else if (num % 2 == 0){
+//      collect(num/2, list)}
+//    else{collect((num*3)+1,list)}
+//}
+//
+//  def collect(num : Int, list: List[Int]):(Int,List[Int]) = {
+//    val p = num :: list
+//    println(p)
+//    if (list.head == 1){p.length}
+//    else {collartz(p.head,p)}
+//  }
+//
+//collect(StartNum,list)
+//}
 
-object Collatz extends App {
-
-  val StartNum: List[Int] = List(20)
-
-  def collartz(list : List[Int]) = {
-    val num = list.head
-    if (num == 1){(list)}
-    else if (num % 2 == 0){((num/2)::list)}
-    else{(((num*3)+1)::list)}
-
-}
-
-  def collect(list: List[Int]) = {
-    println(list)
-    if (list.head == 1){s"done the answer is ${list.length}"}
-    else {collartz(list)}
-  }
-
-collect(StartNum)
 
 
 
-}
 
 //def intMap2(list: List[Int], f: Int => Int): List[Int] = {
 //  list match {
