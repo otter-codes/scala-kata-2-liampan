@@ -2,20 +2,22 @@ package example
 
 object Collatz extends App {
 
-  val StartNum = 20 :: Nil
+  val StartNum: List[Int] = List(20)
 
-  def collartz(num :Int): Int = {
-    if 
+  def collartz(list : List[Int]) = {
+    val num = list.head
+    if (num == 1){list}
+    else if (num % 2 == 0){(num/2)::list}
+    else{((num*3)+1)::list}
   }
 
   def collect(list: List[Int], f: Int => Int): List[Int] ={
     list match {
-      case Nil => list
       case head :: tail => f(head) :: collect(tail, f)
     }
   }
 
-
+println(collartz(StartNum))//.length)      //add .length to complete final task 
 
 
 
