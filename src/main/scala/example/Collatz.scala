@@ -2,13 +2,32 @@ package example
 
 object Collatz extends App {
 
-  val StartNum = 20
+  val StartNum = 20 :: Nil
+
+  def collartz(num :Int): Int = {
+    if 
+  }
+
+  def collect(list: List[Int], f: Int => Int): List[Int] ={
+    list match {
+      case Nil => list
+      case head :: tail => f(head) :: collect(tail, f)
+    }
+  }
 
 
 
 
 
 }
+
+//def intMap2(list: List[Int], f: Int => Int): List[Int] = {
+//  list match {
+//  case Nil => list
+//  case head :: tail => f(head) :: intMap2(tail, f)
+//}
+//}
+//
 
 
 // The	Collatz	Conjecture	states	that	for	any	natural	number	n,	if	n	is	even,	divide	it	by	2.	If	n	is	odd,multiply	it	by	3	and	add	1.	If	you	repeat	the	process	continously	for	n,youll eventually hit 1.
