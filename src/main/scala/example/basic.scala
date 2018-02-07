@@ -2,12 +2,13 @@ package example
 
 object basic extends App {
 
-  val StartNum: Int = 53
+  val StartNum: Int = 20
   var x = 1
+  var list = List(StartNum)
 
   def collartz(num: Int):Int={
     x = x+1
-    println(num)
+    list = num :: list
     if (num == 1) {x-1}
     else if (num % 2 == 0) {
       collartz(num / 2)
@@ -18,6 +19,7 @@ object basic extends App {
   }
 
     println(s"answer is ${collartz(StartNum)}")
+    println(list)
 
 
 }
