@@ -4,7 +4,7 @@ output mode:
 0 -> single
 output directories:
 1 items
-output dir -> /Users/mew/projects/academy/ddcn_tech_academy_sbt_scalatest_template/target/scala-2.12/classes
+output dir -> /home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes
 compile options:
 0 items
 javac options:
@@ -19,15 +19,52 @@ name hashing:
 1 items
 0 -> true
 products:
-4 items
-/Users/mew/projects/academy/ddcn_tech_academy_sbt_scalatest_template/src/main/scala/example/Hello.scala -> /Users/mew/projects/academy/ddcn_tech_academy_sbt_scalatest_template/target/scala-2.12/classes/example/Greeting.class
-/Users/mew/projects/academy/ddcn_tech_academy_sbt_scalatest_template/src/main/scala/example/Hello.scala -> /Users/mew/projects/academy/ddcn_tech_academy_sbt_scalatest_template/target/scala-2.12/classes/example/Hello$.class
-/Users/mew/projects/academy/ddcn_tech_academy_sbt_scalatest_template/src/main/scala/example/Hello.scala -> /Users/mew/projects/academy/ddcn_tech_academy_sbt_scalatest_template/target/scala-2.12/classes/example/Hello$delayedInit$body.class
-/Users/mew/projects/academy/ddcn_tech_academy_sbt_scalatest_template/src/main/scala/example/Hello.scala -> /Users/mew/projects/academy/ddcn_tech_academy_sbt_scalatest_template/target/scala-2.12/classes/example/Hello.class
+25 items
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> /home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/Collatz$.class
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> /home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/Collatz$delayedInit$body.class
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> /home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/Collatz.class
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> /home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/ConwaysGame$.class
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> /home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/ConwaysGame$delayedInit$body.class
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> /home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/ConwaysGame.class
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> /home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/ConwaysGame2$.class
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> /home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/ConwaysGame2$delayedInit$body.class
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> /home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/ConwaysGame2.class
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> /home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/basic$.class
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> /home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/basic$delayedInit$body.class
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> /home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/basic.class
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/genderless.scala -> /home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/genderless$.class
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/genderless.scala -> /home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/genderless.class
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> /home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/teste$.class
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> /home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/teste$delayedInit$body.class
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> /home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/teste.class
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> /home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/teste2$.class
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> /home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/teste2$delayedInit$body.class
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> /home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/teste2.class
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> /home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/teste3$.class
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> /home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/teste3$delayedInit$body.class
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> /home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/teste3.class
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste4.scala -> /home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/teste4$.class
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste4.scala -> /home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/teste4.class
 binary dependencies:
-2 items
-/Users/mew/projects/academy/ddcn_tech_academy_sbt_scalatest_template/src/main/scala/example/Hello.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
-/Users/mew/projects/academy/ddcn_tech_academy_sbt_scalatest_template/src/main/scala/example/Hello.scala -> /Users/mew/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar
+18 items
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> /home/digital032674/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> /home/digital032674/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> /home/digital032674/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> /home/digital032674/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/genderless.scala -> /home/digital032674/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/genderless.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> /home/digital032674/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> /home/digital032674/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> /home/digital032674/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste4.scala -> /home/digital032674/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste4.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
 direct source dependencies:
 0 items
 direct external dependencies:
@@ -45,54 +82,506 @@ inheritance internal dependencies:
 inheritance external dependencies:
 0 items
 class names:
-4 items
-/Users/mew/projects/academy/ddcn_tech_academy_sbt_scalatest_template/src/main/scala/example/Hello.scala -> example.Greeting
-/Users/mew/projects/academy/ddcn_tech_academy_sbt_scalatest_template/src/main/scala/example/Hello.scala -> example.Hello
-/Users/mew/projects/academy/ddcn_tech_academy_sbt_scalatest_template/src/main/scala/example/Hello.scala -> example.Hello$
-/Users/mew/projects/academy/ddcn_tech_academy_sbt_scalatest_template/src/main/scala/example/Hello.scala -> example.Hello$delayedInit$body
+25 items
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> example.Collatz
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> example.Collatz$
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> example.Collatz$delayedInit$body
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> example.ConwaysGame
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> example.ConwaysGame$
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> example.ConwaysGame$delayedInit$body
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> example.ConwaysGame2
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> example.ConwaysGame2$
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> example.ConwaysGame2$delayedInit$body
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> example.basic
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> example.basic$
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> example.basic$delayedInit$body
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/genderless.scala -> example.genderless
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/genderless.scala -> example.genderless$
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> example.teste
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> example.teste$
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> example.teste$delayedInit$body
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> example.teste2
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> example.teste2$
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> example.teste2$delayedInit$body
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> example.teste3
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> example.teste3$
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> example.teste3$delayedInit$body
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste4.scala -> example.teste4
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste4.scala -> example.teste4$
 used names:
-14 items
-/Users/mew/projects/academy/ddcn_tech_academy_sbt_scalatest_template/src/main/scala/example/Hello.scala -> <init>
-/Users/mew/projects/academy/ddcn_tech_academy_sbt_scalatest_template/src/main/scala/example/Hello.scala -> Any
-/Users/mew/projects/academy/ddcn_tech_academy_sbt_scalatest_template/src/main/scala/example/Hello.scala -> AnyRef
-/Users/mew/projects/academy/ddcn_tech_academy_sbt_scalatest_template/src/main/scala/example/Hello.scala -> App
-/Users/mew/projects/academy/ddcn_tech_academy_sbt_scalatest_template/src/main/scala/example/Hello.scala -> Greeting
-/Users/mew/projects/academy/ddcn_tech_academy_sbt_scalatest_template/src/main/scala/example/Hello.scala -> Hello
-/Users/mew/projects/academy/ddcn_tech_academy_sbt_scalatest_template/src/main/scala/example/Hello.scala -> Object
-/Users/mew/projects/academy/ddcn_tech_academy_sbt_scalatest_template/src/main/scala/example/Hello.scala -> Predef
-/Users/mew/projects/academy/ddcn_tech_academy_sbt_scalatest_template/src/main/scala/example/Hello.scala -> String
-/Users/mew/projects/academy/ddcn_tech_academy_sbt_scalatest_template/src/main/scala/example/Hello.scala -> Unit
-/Users/mew/projects/academy/ddcn_tech_academy_sbt_scalatest_template/src/main/scala/example/Hello.scala -> example
-/Users/mew/projects/academy/ddcn_tech_academy_sbt_scalatest_template/src/main/scala/example/Hello.scala -> greeting
-/Users/mew/projects/academy/ddcn_tech_academy_sbt_scalatest_template/src/main/scala/example/Hello.scala -> println
-/Users/mew/projects/academy/ddcn_tech_academy_sbt_scalatest_template/src/main/scala/example/Hello.scala -> scala
+383 items
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> %
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> *
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> +
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> /
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> ::
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> <init>
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> <repeated>
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> ==
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> Any
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> App
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> B
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> Boolean
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> Collatz
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> Int
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> List
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> Nil
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> Nothing
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> Object
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> Predef
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> StartNum
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> String
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> StringContext
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> T1
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> T2
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> Tuple2
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> Unit
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> _1
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> _2
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> collartz
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> collect
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> collection
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> example
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> head
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> immutable
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> length
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> list
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> num
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> p
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> package
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> println
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> reverse
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> s
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> scala
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> &&
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> +
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> -
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> ::
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> <
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> <=
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> <init>
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> <repeated>
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> ==
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> >=
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> Any
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> AnyRef
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> App
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> Array
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> ArrayOps
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> B
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> Boolean
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> Class
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> ClassTag
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> ConwaysGame
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> F
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> Function1
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> Int
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> List
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> LiveNeighbors
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> LiveOrDie
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> Nil
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> Nothing
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> Object
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> Predef
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> RefBoard
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> ScalaRunTime
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> String
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> StringContext
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> T
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> T1
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> T2
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> Tuple2
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> U
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> Unit
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> _$2
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> _$3
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> _$7
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> apply
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> arrayClass
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> board
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> board_=
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> booleanArrayOps
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> cell
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> collection
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> count
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> example
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> findLiveNbors
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> foreach
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> got8Nbors
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> height
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> immutable
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> int
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> l
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> length
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> makeNewBoard
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> materializeClassTag
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> neighbors
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> ofBoolean
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> ofRef
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> package
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> print
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> printBoard
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> println
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> refArrayOps
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> reflect
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> row
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> runtime
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> s
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> scala
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> state
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> update
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> width
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> x
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> y
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> ||
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> &&
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> +
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> -
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> ::
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> <
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> <=
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> <init>
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> <repeated>
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> ==
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> >=
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> Any
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> AnyRef
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> App
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> Array
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> ArrayOps
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> B
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> Boolean
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> Class
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> ClassTag
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> ConwaysGame2
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> F
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> Function1
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> Int
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> List
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> LiveNeighbors
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> Long
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> Nil
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> Nothing
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> Object
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> Predef
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> RefBoard
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> RefBoard_=
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> ScalaRunTime
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> StdIn
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> String
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> StringContext
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> T
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> Thread
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> U
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> Unit
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> _$2
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> _$3
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> _$7
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> apply
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> arrayClass
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> board
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> board_=
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> booleanArrayOps
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> cell
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> collection
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> conwayLoop
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> count
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> example
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> fill
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> findLiveAndDecide
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> foreach
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> height
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> immutable
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> io
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> java
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> l
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> lang
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> length
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> materializeClassTag
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> neighbors
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> nextStep
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> ofBoolean
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> ofRef
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> package
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> print
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> printBoard
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> println
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> refArrayOps
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> reflect
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> row
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> runtime
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> s
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> scala
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> sleep
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> squareCheck
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> state
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> update
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> width
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> x
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> x_=
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> y
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> y_=
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> ||
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> %
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> *
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> +
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> -
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> /
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> ::
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> <init>
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> <repeated>
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> ==
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> A
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> Any
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> App
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> B
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> Boolean
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> Int
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> List
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> Nothing
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> Object
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> Predef
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> StartNum
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> String
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> StringContext
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> Unit
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> apply
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> basic
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> collartz
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> collection
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> example
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> immutable
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> list
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> list_=
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> num
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> println
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> s
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> scala
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> x
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> x_=
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/genderless.scala -> <init>
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/genderless.scala -> App
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/genderless.scala -> Object
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/genderless.scala -> example
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/genderless.scala -> genderless
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/genderless.scala -> scala
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> +
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> -
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> <init>
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> <repeated>
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> ==
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> A
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> Any
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> App
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> Boolean
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> CheckAns
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> CorrectAns
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> Int
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> List
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> Nothing
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> Object
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> Predef
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> String
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> StuAns
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> Unit
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> apply
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> collection
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> example
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> immutable
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> input
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> length
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> package
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> println
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> scala
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> score
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> score_=
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> teste
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> x
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> x_=
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> <init>
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> <repeated>
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> ==
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> A
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> A1
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> Any
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> App
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> B
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> Boolean
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> CanBuildFrom
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> Check
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> Coll
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> CorrectAns
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> Function1
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> GenIterable
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> Int
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> IntIsIntegral
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> List
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> Nothing
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> Numeric
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> Object
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> Predef
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> String
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> StuAns
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> That
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> Tuple2
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> Unit
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> _1
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> _2
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> ans
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> apply
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> canBuildFrom
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> collection
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> example
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> immutable
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> kevin
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> map
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> math
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> package
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> println
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> scala
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> score
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> sum
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> teste2
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> x
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> zip
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> <byname>
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> <init>
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> <repeated>
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> ==
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> ???
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> A
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> Any
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> App
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> B
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> Boolean
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> Function1
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> MatchError
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> None
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> Nothing
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> Object
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> Option
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> Predef
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> Some
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> String
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> StringContext
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> StringOps
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> T0
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> Unit
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> a
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> asInstanceOf
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> augmentString
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> b
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> example
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> fold
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> getOrElse
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> isDefined
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> isInstanceOf
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> map
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> markAns
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> nonEmpty
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> println
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> s
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> scala
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> score
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> scoreForQ1
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> teste3
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> value
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> x
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste4.scala -> <init>
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste4.scala -> App
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste4.scala -> Object
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste4.scala -> example
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste4.scala -> scala
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste4.scala -> teste4
 product stamps:
-4 items
-/Users/mew/projects/academy/ddcn_tech_academy_sbt_scalatest_template/target/scala-2.12/classes/example/Greeting.class -> lastModified(1515754756000)
-/Users/mew/projects/academy/ddcn_tech_academy_sbt_scalatest_template/target/scala-2.12/classes/example/Hello$.class -> lastModified(1515754756000)
-/Users/mew/projects/academy/ddcn_tech_academy_sbt_scalatest_template/target/scala-2.12/classes/example/Hello$delayedInit$body.class -> lastModified(1515754756000)
-/Users/mew/projects/academy/ddcn_tech_academy_sbt_scalatest_template/target/scala-2.12/classes/example/Hello.class -> lastModified(1515754756000)
+25 items
+/home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/Collatz$.class -> lastModified(1518687434000)
+/home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/Collatz$delayedInit$body.class -> lastModified(1518687434000)
+/home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/Collatz.class -> lastModified(1518687434000)
+/home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/ConwaysGame$.class -> lastModified(1518687434000)
+/home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/ConwaysGame$delayedInit$body.class -> lastModified(1518687434000)
+/home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/ConwaysGame.class -> lastModified(1518687434000)
+/home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/ConwaysGame2$.class -> lastModified(1518687434000)
+/home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/ConwaysGame2$delayedInit$body.class -> lastModified(1518687434000)
+/home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/ConwaysGame2.class -> lastModified(1518687434000)
+/home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/basic$.class -> lastModified(1518687434000)
+/home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/basic$delayedInit$body.class -> lastModified(1518687434000)
+/home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/basic.class -> lastModified(1518687434000)
+/home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/genderless$.class -> lastModified(1518687434000)
+/home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/genderless.class -> lastModified(1518687434000)
+/home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/teste$.class -> lastModified(1518687434000)
+/home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/teste$delayedInit$body.class -> lastModified(1518687434000)
+/home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/teste.class -> lastModified(1518687434000)
+/home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/teste2$.class -> lastModified(1518687434000)
+/home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/teste2$delayedInit$body.class -> lastModified(1518687434000)
+/home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/teste2.class -> lastModified(1518687434000)
+/home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/teste3$.class -> lastModified(1518687434000)
+/home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/teste3$delayedInit$body.class -> lastModified(1518687434000)
+/home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/teste3.class -> lastModified(1518687434000)
+/home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/teste4$.class -> lastModified(1518687434000)
+/home/digital032674/scala-kata-2-liampan/target/scala-2.12/classes/example/teste4.class -> lastModified(1518687434000)
 source stamps:
-1 items
-/Users/mew/projects/academy/ddcn_tech_academy_sbt_scalatest_template/src/main/scala/example/Hello.scala -> hash(1bd0a0f42395d0ddc58317d989d9bc92660e66c6)
+9 items
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> hash(14ce85c24e598501f4c1c78c0de5e63c088351e8)
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> hash(af5ad84cd75a1c00506eaa91ec8147dfab34ab9d)
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> hash(26f360fdfc38a4ed8e1fc336037dadb36ece3054)
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> hash(e4431422de4b69ac82a4b974fdc0111091283b5b)
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/genderless.scala -> hash(7424193cf4d3a83fd36a05460ce3ec74a2339761)
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> hash(2b2780c21b4a99d6d1f92c323e95ecad90cf2cbe)
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> hash(496f844b7969f94c5f21908c57bc5d015d28026c)
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> hash(e8fbf3308f19d3609a37735abc7ffb445048a390)
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste4.scala -> hash(4efb35b1d5d33426c4f8f1cbde68638093d57b74)
 binary stamps:
 2 items
-/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1481605174000)
-/Users/mew/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar -> lastModified(1507705630000)
+/home/digital032674/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar -> lastModified(1507705630000)
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1517825662000)
 class names:
 2 items
-/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
-/Users/mew/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar -> scala.App
+/home/digital032674/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar -> scala.App
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Object
 internal apis:
-1 items
-/Users/mew/projects/academy/ddcn_tech_academy_sbt_scalatest_template/src/main/scala/example/Hello.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw5bHJQQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAbc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwD5Y8WHQABm5vdGlmeXNxAH4ADAeFwhx0AAR3YWl0c3EAfgAMh5NG63QADSRhc0luc3RhbmNlT2ZzcQB+AAzhuQyfdAAGZXF1YWxzc3EAfgAM48FmenQACEdyZWV0aW5nc3EAfgAMoIraQXQADGFzSW5zdGFuY2VPZnNxAH4ADCuT8850AA5leGVjdXRpb25TdGFydHNxAH4ADGuZ+vF0AAxzeW5jaHJvbml6ZWRzcQB+AAzF7VuudAANJGlzSW5zdGFuY2VPZnNxAH4ADPbzUtZ0AARtYWluc3EAfgAM74WwDHQACW5vdGlmeUFsbHNxAH4ADNH/h9V0AAxpc0luc3RhbmNlT2ZzcQB+AAwDYz9OdAACPT1zcQB+AAyBek3DdAAFY2xvbmVzcQB+AAztXHYFdAAFSGVsbG9zcQB+AAw8P331dAAGJGluaXQkc3EAfgAMvZb4yHQACGdyZWV0aW5nc3EAfgAMZZbnFXQACHRvU3RyaW5nc3EAfgAMuYQM/3QABGFyZ3NzcQB+AAyyxCQCdAACIT1zcQB+AAyLmO0ydAAIZ2V0Q2xhc3NzcQB+AAx92kbTdAACbmVzcQB+AAy41tIPdAACZXFzcQB+AAyMwfYzdAALZGVsYXllZEluaXRzcQB+AAxfYvCedAACIyNzcQB+AAxhKaybdAAIZmluYWxpemVzcQB+AAyUP3YhdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBNeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAANZXhhbXBsZS5IZWxsb3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAN0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3QAEHNjYWxhLmRlcHJlY2F0ZWR0AAxzY2FsYS5uYXRpdmVzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AaHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBNTAAJaW5oZXJpdGVkcQB+AE1MAAdwYXJlbnRzcQB+AE14cQB+AG1zcQB+AGh1cQB+AEgAAAAAc3EAfgBodXEAfgBIAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBOcQB+AFd1cQB+AFgAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgB3eHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADUwABXZhbHVlcQB+AA14cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGx0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AbHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AkXNxAH4AWgBxAH4AIXVxAH4AXQAAAABzcQB+AIR0AARVbml0cQB+AIp1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgB3eHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBgdAAFUGxhaW5xAH4AM3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AhVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AbHNxAH4AhHQABUFycmF5cQB+AIp1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AhHQABlN0cmluZ3NxAH4AiHNxAH4Ai3VxAH4AjgAAAANzcQB+AJB0AARqYXZhc3EAfgCQdAAEbGFuZ3EAfgCVc3EAfgBodXEAfgCsAAAABXNxAH4AhHQAA0FwcHEAfgCKc3EAfgCEdAALRGVsYXllZEluaXRxAH4AinNxAH4AhHQACEdyZWV0aW5nc3EAfgCIc3EAfgCLdXEAfgCOAAAAAnNxAH4AkHQAB2V4YW1wbGVxAH4AlXNxAH4AhHQABk9iamVjdHEAfgCwc3EAfgCEdAADQW55cQB+AIpzcQB+AEpxAH4AV3VxAH4AWAAAAABzcQB+AFoBdAAQZXhhbXBsZS5HcmVldGluZ3VxAH4AXQAAAAB+cQB+AF90AAVUcmFpdHVxAH4AYwAAAAF0AAxzY2FsYS5uYXRpdmVzcQB+AGhxAH4AbnNxAH4AaHNxAH4AcHNxAH4AaHVxAH4ASAAAAABzcQB+AGh1cQB+AEgAAAAAc3EAfgBodXEAfgCsAAAAAnNxAH4AhHEAfgDFc3EAfgCIc3EAfgCLdXEAfgCOAAAAA3NxAH4AkHEAfgC0c3EAfgCQcQB+ALZxAH4AlXNxAH4AhHEAfgDHc3EAfgCIc3EAfgCLdXEAfgCOAAAAAnNxAH4AkHEAfgCTcQB+AJV1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAdleGFtcGxlc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFg6gX4rXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AF4vVXNlcnMvbWV3L3Byb2plY3RzL2FjYWRlbXkvZGRjbl90ZWNoX2FjYWRlbXlfc2J0X3NjYWxhdGVzdF90ZW1wbGF0ZS90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUG9Cg9COV0N3FgxfZidm8kmYOZsY=
+9 items
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwLqBs3wAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAdc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwwQsmO3QABm5vdGlmeXNxAH4ADOD3p9Z0AAR3YWl0c3EAfgAMnOcsZ3QADSRhc0luc3RhbmNlT2ZzcQB+AAxUH3ZqdAAGZXF1YWxzc3EAfgAMFNm+NHQADGFzSW5zdGFuY2VPZnNxAH4ADLGIgNR0AA5leGVjdXRpb25TdGFydHNxAH4ADMT7OjZ0AAxzeW5jaHJvbml6ZWRzcQB+AAzpAbBVdAANJGlzSW5zdGFuY2VPZnNxAH4ADAtCDjJ0AARtYWluc3EAfgAM+Nv51HQACW5vdGlmeUFsbHNxAH4ADMvlYQ50AAxpc0luc3RhbmNlT2ZzcQB+AAyZVgzadAACPT1zcQB+AAw217m2dAAFY2xvbmVzcQB+AAzNMIk7dAAGJGluaXQkc3EAfgAMlxWqjHQACGNvbGxhcnR6c3EAfgAMHWOgr3QACFN0YXJ0TnVtc3EAfgAMJtY3A3QACHRvU3RyaW5nc3EAfgAMg5oTaHQABGFyZ3NzcQB+AAynGew8dAAHQ29sbGF0enNxAH4ADPapQ9p0AAIhPXNxAH4ADLLEerB0AAdjb2xsZWN0c3EAfgAM15hNc3QACGdldENsYXNzc3EAfgAMnczxLXQAAm5lc3EAfgAM/07Y/XQAAmVxc3EAfgAMrGvC2XQAC2RlbGF5ZWRJbml0c3EAfgAMG/TgPXQAAiMjc3EAfgAMVmBa83QABGxpc3RzcQB+AAzW7oKadAAIZmluYWxpemVzcQB+AAxPZpnfdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBReHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAPZXhhbXBsZS5Db2xsYXR6dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAA3QAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHQADHNjYWxhLm5hdGl2ZXNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBsc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFFMAAlpbmhlcml0ZWRxAH4AUUwAB3BhcmVudHNxAH4AUXhxAH4AcXNxAH4AbHVxAH4ATAAAAABzcQB+AGx1cQB+AEwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AFJxAH4AW3VxAH4AXAAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AHt4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AcHQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBwc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCVc3EAfgBeAHEAfgAfdXEAfgBhAAAAAHNxAH4AiHQABFVuaXRxAH4AjnVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AHt4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AGR0AAVQbGFpbnEAfgAxc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCJWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBwc3EAfgCIdAAFQXJyYXlxAH4AjnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCIdAAGU3RyaW5nc3EAfgCMc3EAfgCPdXEAfgCSAAAAA3NxAH4AlHQABGphdmFzcQB+AJR0AARsYW5ncQB+AJlzcQB+AGx1cQB+ALAAAAAEc3EAfgCIdAADQXBwcQB+AI5zcQB+AIh0AAtEZWxheWVkSW5pdHEAfgCOc3EAfgCIdAAGT2JqZWN0cQB+ALRzcQB+AIh0AANBbnlxAH4AjnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB2V4YW1wbGVzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWGY0w29dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQi9ob21lL2RpZ2l0YWwwMzI2NzQvc2NhbGEta2F0YS0yLWxpYW1wYW4vdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFBTOhcJOWYUB9MHHjA3l5jwIg1Ho
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwljH6LAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAmc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwmVlFFHQABm5vdGlmeXNxAH4ADBJYN8l0AApwcmludEJvYXJkc3EAfgAMnhPv1XQAAXhzcQB+AAysZDxzdAAEd2FpdHNxAH4ADF80vXt0AA0kYXNJbnN0YW5jZU9mc3EAfgAMV5Ixt3QACUxpdmVPckRpZXNxAH4ADP5bNEB0AAZlcXVhbHNzcQB+AAzo8ICHdAABeXNxAH4ADLwVJuB0AAFUc3EAfgAMtSQMhnQADGFzSW5zdGFuY2VPZnNxAH4ADHJ3pNJ0AA5leGVjdXRpb25TdGFydHNxAH4ADCOX/dp0AAxzeW5jaHJvbml6ZWRzcQB+AAzZ3BDndAABRnNxAH4ADC4ozbZ0AA0kaXNJbnN0YW5jZU9mc3EAfgAMrp5hCHQABmhlaWdodHNxAH4ADGQ++cp0AARtYWluc3EAfgAM42gSc3QACWdvdDhOYm9yc3NxAH4ADDI4RpV0AAlub3RpZnlBbGxzcQB+AAyHEzKndAANZmluZExpdmVOYm9yc3NxAH4ADPz6K0Z0AAxpc0luc3RhbmNlT2ZzcQB+AAwoP2PndAAMbWFrZU5ld0JvYXJkc3EAfgAMacuDE3QABWJvYXJkc3EAfgAMJIE5MHQAAj09c3EAfgAM69AdIHQABWNsb25lc3EAfgAMcyY7lHQABiRpbml0JHNxAH4ADN9jj/Z0AAhSZWZCb2FyZHNxAH4ADIoFSXR0AAh0b1N0cmluZ3NxAH4ADOaijIV0AARhcmdzc3EAfgAMW6TpS3QAAiE9c3EAfgAM3YTG83QACGdldENsYXNzc3EAfgAMjDQ90XQAC0NvbndheXNHYW1lc3EAfgAMOw3xYHQAAm5lc3EAfgAMVeGha3QABXdpZHRoc3EAfgAM5iLjdHQAAmVxc3EAfgAMb1zmSHQAC2RlbGF5ZWRJbml0c3EAfgAMRcNphnQAAiMjc3EAfgAMsHqskHQACGZpbmFsaXplc3EAfgAM3cwkr3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AY3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAE2V4YW1wbGUuQ29ud2F5c0dhbWV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAADdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmd0ABBzY2FsYS5kZXByZWNhdGVkdAAMc2NhbGEubmF0aXZlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AH5zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AY0wACWluaGVyaXRlZHEAfgBjTAAHcGFyZW50c3EAfgBjeHEAfgCDc3EAfgB+dXEAfgBeAAAAAHNxAH4AfnVxAH4AXgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AZHEAfgBtdXEAfgBuAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4AjXhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AA1MAAV2YWx1ZXEAfgANeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCCdAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIJzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AKdzcQB+AHAAcQB+AC11cQB+AHMAAAAAc3EAfgCadAAEVW5pdHEAfgCgdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AjXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AdnQABVBsYWlucQB+AEVzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AJtbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AIJzcQB+AJp0AAVBcnJheXEAfgCgdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AJp0AAZTdHJpbmdzcQB+AJ5zcQB+AKF1cQB+AKQAAAADc3EAfgCmdAAEamF2YXNxAH4ApnQABGxhbmdxAH4Aq3NxAH4AfnVxAH4AwgAAAARzcQB+AJp0AANBcHBxAH4AoHNxAH4AmnQAC0RlbGF5ZWRJbml0cQB+AKBzcQB+AJp0AAZPYmplY3RxAH4AxnNxAH4AmnQAA0FueXEAfgCgdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAHZXhhbXBsZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYZjTDb11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABCL2hvbWUvZGlnaXRhbDAzMjY3NC9zY2FsYS1rYXRhLTItbGlhbXBhbi90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUr1rYTNdaHABQbqqR7IFH36s0q50=
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwlAodUQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAmc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hww7SDAXQABm5vdGlmeXNxAH4ADIuoppl0AAhuZXh0U3RlcHNxAH4ADIGmUSp0AApwcmludEJvYXJkc3EAfgAM7tndznQAC3NxdWFyZUNoZWNrc3EAfgAM5qPBy3QACmNvbndheUxvb3BzcQB+AAzO74e7dAABeHNxAH4ADOfI9RJ0AAR3YWl0c3EAfgAM4eOm/3QADSRhc0luc3RhbmNlT2ZzcQB+AAwt8tIjdAAGZXF1YWxzc3EAfgAMl3Q5gXQAAXlzcQB+AAx8opT5dAABVHNxAH4ADOGNzH50AAxhc0luc3RhbmNlT2ZzcQB+AAzPxCFudAAOZXhlY3V0aW9uU3RhcnRzcQB+AAwUKY1hdAAMc3luY2hyb25pemVkc3EAfgAMOXWQ8HQAAUZzcQB+AAwz5Gb+dAANJGlzSW5zdGFuY2VPZnNxAH4ADEfKM6t0AAZoZWlnaHRzcQB+AAyBhgrwdAAEbWFpbnNxAH4ADD0At4B0AAlub3RpZnlBbGxzcQB+AAyenTondAAMQ29ud2F5c0dhbWUyc3EAfgAMA6xuznQADGlzSW5zdGFuY2VPZnNxAH4ADPGFJ2x0AAVib2FyZHNxAH4ADLg6T4J0AAI9PXNxAH4ADAikph50AAVjbG9uZXNxAH4ADIew8Jx0AAYkaW5pdCRzcQB+AAzZp7ZhdAARZmluZExpdmVBbmREZWNpZGVzcQB+AAyYFQq3dAAIUmVmQm9hcmRzcQB+AAyAu+jldAAIdG9TdHJpbmdzcQB+AAy2q6JndAAEYXJnc3NxAH4ADGH4i6Z0AAIhPXNxAH4ADPzLZDN0AAhnZXRDbGFzc3NxAH4ADGoSltp0AAJuZXNxAH4ADC9xujF0AAV3aWR0aHNxAH4ADL9fRwF0AAJlcXNxAH4ADDz3Qjp0AAtkZWxheWVkSW5pdHNxAH4ADH/6/0l0AAIjI3NxAH4ADLD2Mnh0AAhmaW5hbGl6ZXNxAH4ADGy3Mkt0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABRleGFtcGxlLkNvbndheXNHYW1lMnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAN0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3QAEHNjYWxhLmRlcHJlY2F0ZWR0AAxzY2FsYS5uYXRpdmVzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AfnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBjTAAJaW5oZXJpdGVkcQB+AGNMAAdwYXJlbnRzcQB+AGN4cQB+AINzcQB+AH51cQB+AF4AAAAAc3EAfgB+dXEAfgBeAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBkcQB+AG11cQB+AG4AAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgCNeHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADUwABXZhbHVlcQB+AA14cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AIJ0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AgnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ap3NxAH4AcABxAH4AMXVxAH4AcwAAAABzcQB+AJp0AARVbml0cQB+AKB1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgCNeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgB2dAAFUGxhaW5xAH4AR3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4Am1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AgnNxAH4AmnQABUFycmF5cQB+AKB1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AmnQABlN0cmluZ3NxAH4AnnNxAH4AoXVxAH4ApAAAAANzcQB+AKZ0AARqYXZhc3EAfgCmdAAEbGFuZ3EAfgCrc3EAfgB+dXEAfgDCAAAABHNxAH4AmnQAA0FwcHEAfgCgc3EAfgCadAALRGVsYXllZEluaXRxAH4AoHNxAH4AmnQABk9iamVjdHEAfgDGc3EAfgCadAADQW55cQB+AKB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAdleGFtcGxlc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFhmNMNvXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEIvaG9tZS9kaWdpdGFsMDMyNjc0L3NjYWxhLWthdGEtMi1saWFtcGFuL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQm82D9/Dik7Y4fwzYDfa2zbs4wVA==
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw4dVgOQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAdc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwSnDV1nQABm5vdGlmeXNxAH4ADKYPV4Z0AAF4c3EAfgAM5/FhSXQABHdhaXRzcQB+AAxga5YbdAANJGFzSW5zdGFuY2VPZnNxAH4ADIDw5qB0AAZlcXVhbHNzcQB+AAztOBYpdAAMYXNJbnN0YW5jZU9mc3EAfgAMRAdCL3QADmV4ZWN1dGlvblN0YXJ0c3EAfgAM9WPv8nQADHN5bmNocm9uaXplZHNxAH4ADObYvcB0AA0kaXNJbnN0YW5jZU9mc3EAfgAMaLKetnQABG1haW5zcQB+AAz3mrQ5dAAJbm90aWZ5QWxsc3EAfgAMp+oG3nQADGlzSW5zdGFuY2VPZnNxAH4ADNcoxzh0AAI9PXNxAH4ADNNqBqN0AAVjbG9uZXNxAH4ADFFlYCx0AAYkaW5pdCRzcQB+AAzP5a6IdAAIY29sbGFydHpzcQB+AAy9u8bTdAAIU3RhcnROdW1zcQB+AAxI+pDLdAAIdG9TdHJpbmdzcQB+AAxr4GwIdAAEYXJnc3NxAH4ADGv0vQV0AAIhPXNxAH4ADD8QLqh0AAhnZXRDbGFzc3NxAH4ADEXG/zZ0AAViYXNpY3NxAH4ADJ3hMuZ0AAJuZXNxAH4ADJD6IkF0AAJlcXNxAH4ADKm0ZsN0AAtkZWxheWVkSW5pdHNxAH4ADI85Apt0AAIjI3NxAH4ADLhxn6V0AARsaXN0c3EAfgAMeN9eR3QACGZpbmFsaXplc3EAfgAMnimn1HQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AUXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADWV4YW1wbGUuYmFzaWN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAADdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmd0ABBzY2FsYS5kZXByZWNhdGVkdAAMc2NhbGEubmF0aXZlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGxzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AUUwACWluaGVyaXRlZHEAfgBRTAAHcGFyZW50c3EAfgBReHEAfgBxc3EAfgBsdXEAfgBMAAAAAHNxAH4AbHVxAH4ATAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AUnEAfgBbdXEAfgBcAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4Ae3hwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AA1MAAV2YWx1ZXEAfgANeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBwdAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJVzcQB+AF4AcQB+ACF1cQB+AGEAAAAAc3EAfgCIdAAEVW5pdHEAfgCOdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4Ae3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AZHQABVBsYWlucQB+ADNzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AIlbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AHBzcQB+AIh0AAVBcnJheXEAfgCOdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AIh0AAZTdHJpbmdzcQB+AIxzcQB+AI91cQB+AJIAAAADc3EAfgCUdAAEamF2YXNxAH4AlHQABGxhbmdxAH4AmXNxAH4AbHVxAH4AsAAAAARzcQB+AIh0AANBcHBxAH4AjnNxAH4AiHQAC0RlbGF5ZWRJbml0cQB+AI5zcQB+AIh0AAZPYmplY3RxAH4AtHNxAH4AiHQAA0FueXEAfgCOdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAHZXhhbXBsZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYZjTDb11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABCL2hvbWUvZGlnaXRhbDAzMjY3NC9zY2FsYS1rYXRhLTItbGlhbXBhbi90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU5EMUIt5LaayCpLl0/cAREJEoO1s=
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/genderless.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwnJ9KnQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAZc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwpgau03QABm5vdGlmeXNxAH4ADEhSSb10AApnZW5kZXJsZXNzc3EAfgAMyBbSqXQABHdhaXRzcQB+AAy2sNQUdAANJGFzSW5zdGFuY2VPZnNxAH4ADFHMwNF0AAZlcXVhbHNzcQB+AAxsmgModAAMYXNJbnN0YW5jZU9mc3EAfgAMYMU51nQADmV4ZWN1dGlvblN0YXJ0c3EAfgAM6J0fxnQADHN5bmNocm9uaXplZHNxAH4ADIcsNq10AA0kaXNJbnN0YW5jZU9mc3EAfgAME6tfQ3QABG1haW5zcQB+AAwruQeRdAAJbm90aWZ5QWxsc3EAfgAMqNbEwHQADGlzSW5zdGFuY2VPZnNxAH4ADK6jqhx0AAI9PXNxAH4ADDwuT1F0AAVjbG9uZXNxAH4ADDAvORR0AAYkaW5pdCRzcQB+AAyNvVvtdAAIdG9TdHJpbmdzcQB+AAzM3u8QdAAEYXJnc3NxAH4ADA+anyp0AAIhPXNxAH4ADJMEkyl0AAhnZXRDbGFzc3NxAH4ADKmhl2p0AAJuZXNxAH4ADG2/RAt0AAJlcXNxAH4ADBihIkp0AAtkZWxheWVkSW5pdHNxAH4ADEtbIB50AAIjI3NxAH4ADEgdlox0AAhmaW5hbGl6ZXNxAH4ADJxBdOR0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABJleGFtcGxlLmdlbmRlcmxlc3N1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAADdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmd0ABBzY2FsYS5kZXByZWNhdGVkdAAMc2NhbGEubmF0aXZlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGRzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ASUwACWluaGVyaXRlZHEAfgBJTAAHcGFyZW50c3EAfgBJeHEAfgBpc3EAfgBkdXEAfgBEAAAAAHNxAH4AZHVxAH4ARAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ASnEAfgBTdXEAfgBUAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4Ac3hwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AA1MAAV2YWx1ZXEAfgANeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBodAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGhzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AI1zcQB+AFYAcQB+ACF1cQB+AFkAAAAAc3EAfgCAdAAEVW5pdHEAfgCGdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4Ac3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AXHQABVBsYWlucQB+AC9zcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AIFbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AGhzcQB+AIB0AAVBcnJheXEAfgCGdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AIB0AAZTdHJpbmdzcQB+AIRzcQB+AId1cQB+AIoAAAADc3EAfgCMdAAEamF2YXNxAH4AjHQABGxhbmdxAH4AkXNxAH4AZHVxAH4AqAAAAARzcQB+AIB0AANBcHBxAH4AhnNxAH4AgHQAC0RlbGF5ZWRJbml0cQB+AIZzcQB+AIB0AAZPYmplY3RxAH4ArHNxAH4AgHQAA0FueXEAfgCGdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAHZXhhbXBsZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYZjTDb11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABCL2hvbWUvZGlnaXRhbDAzMjY3NC9zY2FsYS1rYXRhLTItbGlhbXBhbi90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUdCQZPPTTqD/TagVGDOPsdKIzl2E=
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwAduXJwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAec3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwk29DYXQABm5vdGlmeXNxAH4ADOhdMrR0AAV0ZXN0ZXNxAH4ADMbETeJ0AAF4c3EAfgAMEmVu2nQABHdhaXRzcQB+AAw5EhYxdAANJGFzSW5zdGFuY2VPZnNxAH4ADEb6JUt0AAZlcXVhbHNzcQB+AAzq0YEvdAAIQ2hlY2tBbnNzcQB+AAx9aEyTdAAMYXNJbnN0YW5jZU9mc3EAfgAMCr9aNXQADmV4ZWN1dGlvblN0YXJ0c3EAfgAMzQsTMHQADHN5bmNocm9uaXplZHNxAH4ADBY4gSF0AAVzY29yZXNxAH4ADEdYD7V0AA0kaXNJbnN0YW5jZU9mc3EAfgAMmGOZr3QABG1haW5zcQB+AAz78erYdAAJbm90aWZ5QWxsc3EAfgAMAPlnDnQADGlzSW5zdGFuY2VPZnNxAH4ADHDSNQB0AApDb3JyZWN0QW5zc3EAfgAM9C8IGnQAAj09c3EAfgAMKtVmQ3QABWNsb25lc3EAfgAMWf7kinQABiRpbml0JHNxAH4ADLbbsEN0AAh0b1N0cmluZ3NxAH4ADL9jN0J0AARhcmdzc3EAfgAMLZG+cXQAAiE9c3EAfgAMSM0YtnQACGdldENsYXNzc3EAfgAMraYzWHQAAm5lc3EAfgAMRjFi1XQABWlucHV0c3EAfgAMhSdRaXQAAmVxc3EAfgAM2ccSr3QAC2RlbGF5ZWRJbml0c3EAfgAMKqSu1HQAAiMjc3EAfgAMtW/sOXQACGZpbmFsaXplc3EAfgAMRR/ybnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AU3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADWV4YW1wbGUudGVzdGV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAADdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmd0ABBzY2FsYS5kZXByZWNhdGVkdAAMc2NhbGEubmF0aXZlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AG5zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AU0wACWluaGVyaXRlZHEAfgBTTAAHcGFyZW50c3EAfgBTeHEAfgBzc3EAfgBudXEAfgBOAAAAAHNxAH4AbnVxAH4ATgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AVHEAfgBddXEAfgBeAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4AfXhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AA1MAAV2YWx1ZXEAfgANeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBydAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHJzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJdzcQB+AGAAcQB+ACd1cQB+AGMAAAAAc3EAfgCKdAAEVW5pdHEAfgCQdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AfXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AZnQABVBsYWlucQB+ADdzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AItbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AHJzcQB+AIp0AAVBcnJheXEAfgCQdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AIp0AAZTdHJpbmdzcQB+AI5zcQB+AJF1cQB+AJQAAAADc3EAfgCWdAAEamF2YXNxAH4AlnQABGxhbmdxAH4Am3NxAH4AbnVxAH4AsgAAAARzcQB+AIp0AANBcHBxAH4AkHNxAH4AinQAC0RlbGF5ZWRJbml0cQB+AJBzcQB+AIp0AAZPYmplY3RxAH4AtnNxAH4AinQAA0FueXEAfgCQdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAHZXhhbXBsZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYZjTDb11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABCL2hvbWUvZGlnaXRhbDAzMjY3NC9zY2FsYS1rYXRhLTItbGlhbXBhbi90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUKyeAwhtKmdbR+SwyPpXsrZDPLL4=
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw0WHkdAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAec3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwsnW/f3QABlN0dUFuc3NxAH4ADAoFtzp0AAZub3RpZnlzcQB+AAxXVh22dAAGdGVzdGUyc3EAfgAMTXD/JHQABHdhaXRzcQB+AAxgZXjjdAANJGFzSW5zdGFuY2VPZnNxAH4ADGL1WBl0AAZlcXVhbHNzcQB+AAyaRK/idAAMYXNJbnN0YW5jZU9mc3EAfgAMfnZmtXQADmV4ZWN1dGlvblN0YXJ0c3EAfgAMEcCAWnQADHN5bmNocm9uaXplZHNxAH4ADHiNgsN0AAVzY29yZXNxAH4ADLPS3p50AA0kaXNJbnN0YW5jZU9mc3EAfgAMk8LUmHQABG1haW5zcQB+AAzuvAckdAAJbm90aWZ5QWxsc3EAfgAM2blcUnQADGlzSW5zdGFuY2VPZnNxAH4ADHtnjRN0AAVrZXZpbnNxAH4ADAS1YH10AApDb3JyZWN0QW5zc3EAfgAMw69V1nQAAj09c3EAfgAMar07UnQABWNsb25lc3EAfgAMFP6Ub3QABiRpbml0JHNxAH4ADDrkkJN0AAh0b1N0cmluZ3NxAH4ADH7lnxN0AARhcmdzc3EAfgAMSl/B53QAAiE9c3EAfgAMKfCo4nQACGdldENsYXNzc3EAfgAM4yqIpHQAAm5lc3EAfgAMv2ERynQAAmVxc3EAfgAMrNxJqHQABUNoZWNrc3EAfgAMeHm3P3QAC2RlbGF5ZWRJbml0c3EAfgAM6Y/DfXQAAiMjc3EAfgAMhg7BdnQACGZpbmFsaXplc3EAfgAMiZDth3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AU3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADmV4YW1wbGUudGVzdGUydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAA3QAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHQADHNjYWxhLm5hdGl2ZXNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBuc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFNMAAlpbmhlcml0ZWRxAH4AU0wAB3BhcmVudHNxAH4AU3hxAH4Ac3NxAH4AbnVxAH4ATgAAAABzcQB+AG51cQB+AE4AAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AFRxAH4AXXVxAH4AXgAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AH14cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AcnQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgByc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCXc3EAfgBgAHEAfgAldXEAfgBjAAAAAHNxAH4AinQABFVuaXRxAH4AkHVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AH14cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AGZ0AAVQbGFpbnEAfgA3c3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCLWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgByc3EAfgCKdAAFQXJyYXlxAH4AkHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCKdAAGU3RyaW5nc3EAfgCOc3EAfgCRdXEAfgCUAAAAA3NxAH4AlnQABGphdmFzcQB+AJZ0AARsYW5ncQB+AJtzcQB+AG51cQB+ALIAAAAEc3EAfgCKdAADQXBwcQB+AJBzcQB+AIp0AAtEZWxheWVkSW5pdHEAfgCQc3EAfgCKdAAGT2JqZWN0cQB+ALZzcQB+AIp0AANBbnlxAH4AkHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB2V4YW1wbGVzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWGY0w29dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQi9ob21lL2RpZ2l0YWwwMzI2NzQvc2NhbGEta2F0YS0yLWxpYW1wYW4vdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFElvhEt5aflMXyGQjFe8XQFdKAJs
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwgHkQAwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAbc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwAFoBt3QABm5vdGlmeXNxAH4ADDNFwHN0AAR3YWl0c3EAfgAM1pWFO3QADSRhc0luc3RhbmNlT2ZzcQB+AAwdjk7DdAAGZXF1YWxzc3EAfgAMtlP7wXQADGFzSW5zdGFuY2VPZnNxAH4ADGe9wvl0AA5leGVjdXRpb25TdGFydHNxAH4ADGYAikl0AAxzeW5jaHJvbml6ZWRzcQB+AAxjmIpWdAANJGlzSW5zdGFuY2VPZnNxAH4ADC9gy4p0AARtYWluc3EAfgAMy18P2nQACW5vdGlmeUFsbHNxAH4ADETpW650AAxpc0luc3RhbmNlT2ZzcQB+AAxi/PATdAAHbWFya0Fuc3NxAH4ADP06kJh0AAI9PXNxAH4ADCcP2WZ0AAVjbG9uZXNxAH4ADO7WvIt0AAYkaW5pdCRzcQB+AAw1962bdAAGdGVzdGUzc3EAfgAMj+CjgnQACHRvU3RyaW5nc3EAfgAM1U2YPnQABGFyZ3NzcQB+AAzT5GOGdAACIT1zcQB+AAyovZjXdAAIZ2V0Q2xhc3NzcQB+AAxz6YRldAACbmVzcQB+AAx3UftMdAACZXFzcQB+AAzvoSbAdAALZGVsYXllZEluaXRzcQB+AAwQ507rdAACIyNzcQB+AAxaUJOfdAAIZmluYWxpemVzcQB+AAxBrRVJdAAIaGFzaENvZGVzcQB+AAxyw2eUdAAKc2NvcmVGb3JRMXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AE14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AA5leGFtcGxlLnRlc3RlM3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAN0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3QAEHNjYWxhLmRlcHJlY2F0ZWR0AAxzY2FsYS5uYXRpdmVzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AaHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBNTAAJaW5oZXJpdGVkcQB+AE1MAAdwYXJlbnRzcQB+AE14cQB+AG1zcQB+AGh1cQB+AEgAAAAAc3EAfgBodXEAfgBIAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBOcQB+AFd1cQB+AFgAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgB3eHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADUwABXZhbHVlcQB+AA14cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGx0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AbHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AkXNxAH4AWgBxAH4AH3VxAH4AXQAAAABzcQB+AIR0AARVbml0cQB+AIp1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgB3eHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBgdAAFUGxhaW5xAH4AMXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AhVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AbHNxAH4AhHQABUFycmF5cQB+AIp1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AhHQABlN0cmluZ3NxAH4AiHNxAH4Ai3VxAH4AjgAAAANzcQB+AJB0AARqYXZhc3EAfgCQdAAEbGFuZ3EAfgCVc3EAfgBodXEAfgCsAAAABHNxAH4AhHQAA0FwcHEAfgCKc3EAfgCEdAALRGVsYXllZEluaXRxAH4AinNxAH4AhHQABk9iamVjdHEAfgCwc3EAfgCEdAADQW55cQB+AIp1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAdleGFtcGxlc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFhmNMNvXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEIvaG9tZS9kaWdpdGFsMDMyNjc0L3NjYWxhLWthdGEtMi1saWFtcGFuL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTo+/MwjxnTYJo3c1q8f/tEUEijkA==
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste4.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwfA/XMAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAZc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwmaMK7nQABm5vdGlmeXNxAH4ADCK/esh0AAR3YWl0c3EAfgAMkFugW3QADSRhc0luc3RhbmNlT2ZzcQB+AAyugITcdAAGZXF1YWxzc3EAfgAMau9RaXQADGFzSW5zdGFuY2VPZnNxAH4ADMv0XUR0AA5leGVjdXRpb25TdGFydHNxAH4ADLXvuNh0AAxzeW5jaHJvbml6ZWRzcQB+AAzzjEy2dAANJGlzSW5zdGFuY2VPZnNxAH4ADECUMHl0AARtYWluc3EAfgAMurWhKXQACW5vdGlmeUFsbHNxAH4ADAj+eMJ0AAZ0ZXN0ZTRzcQB+AAxbJgbKdAAMaXNJbnN0YW5jZU9mc3EAfgAM3KUmk3QAAj09c3EAfgAMHfKXB3QABWNsb25lc3EAfgAMBBfWRHQABiRpbml0JHNxAH4ADGayyvN0AAh0b1N0cmluZ3NxAH4ADGlqlUh0AARhcmdzc3EAfgAMnffaOnQAAiE9c3EAfgAMpm08r3QACGdldENsYXNzc3EAfgAMIPwDL3QAAm5lc3EAfgAMV+RIO3QAAmVxc3EAfgAMdKyQCHQAC2RlbGF5ZWRJbml0c3EAfgAMKXyXenQAAiMjc3EAfgAM8nYG4HQACGZpbmFsaXplc3EAfgAMBt7P7XQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ASXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADmV4YW1wbGUudGVzdGU0dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAA3QAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHQADHNjYWxhLm5hdGl2ZXNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBkc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AElMAAlpbmhlcml0ZWRxAH4ASUwAB3BhcmVudHNxAH4ASXhxAH4AaXNxAH4AZHVxAH4ARAAAAABzcQB+AGR1cQB+AEQAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEpxAH4AU3VxAH4AVAAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AHN4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AaHQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBoc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCNc3EAfgBWAHEAfgAfdXEAfgBZAAAAAHNxAH4AgHQABFVuaXRxAH4AhnVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AHN4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFx0AAVQbGFpbnEAfgAvc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCBWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBoc3EAfgCAdAAFQXJyYXlxAH4AhnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCAdAAGU3RyaW5nc3EAfgCEc3EAfgCHdXEAfgCKAAAAA3NxAH4AjHQABGphdmFzcQB+AIx0AARsYW5ncQB+AJFzcQB+AGR1cQB+AKgAAAAEc3EAfgCAdAADQXBwcQB+AIZzcQB+AIB0AAtEZWxheWVkSW5pdHEAfgCGc3EAfgCAdAAGT2JqZWN0cQB+AKxzcQB+AIB0AANBbnlxAH4AhnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB2V4YW1wbGVzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWGY0w29dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQi9ob21lL2RpZ2l0YWwwMzI2NzQvc2NhbGEta2F0YS0yLWxpYW1wYW4vdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFE77NbHV0zQmxPjxy95oY4CT1Xt0
 external apis:
 0 items
 source infos:
-1 items
-/Users/mew/projects/academy/ddcn_tech_academy_sbt_scalatest_template/src/main/scala/example/Hello.scala -> 
+9 items
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/Collatz.scala -> 
+AAAAAAAAAAA=
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame.scala -> 
+AAAAAAAAAAA=
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/ConwaysGame2.scala -> 
+AAAAAAAAAAA=
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/basic.scala -> 
+AAAAAAAAAAA=
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/genderless.scala -> 
+AAAAAAAAAAA=
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste.scala -> 
+AAAAAQAAAQAAABEACyAgICAgIHNjb3JlAQAAARABAAAABgEABiAgICAgIAEASy9ob21lL2RpZ2l0YWwwMzI2NzQvc2NhbGEta2F0YS0yLWxpYW1wYW4vc3JjL21haW4vc2NhbGEvZXhhbXBsZS90ZXN0ZS5zY2FsYQEASy9ob21lL2RpZ2l0YWwwMzI2NzQvc2NhbGEta2F0YS0yLWxpYW1wYW4vc3JjL21haW4vc2NhbGEvZXhhbXBsZS90ZXN0ZS5zY2FsYQBvYSBwdXJlIGV4cHJlc3Npb24gZG9lcyBub3RoaW5nIGluIHN0YXRlbWVudCBwb3NpdGlvbjsgbXVsdGlsaW5lIGV4cHJlc3Npb25zIG1pZ2h0IHJlcXVpcmUgZW5jbG9zaW5nIHBhcmVudGhlc2VzAQAAAAA=
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste2.scala -> 
+AAAAAAAAAAA=
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste3.scala -> 
+AAAAAAAAAAA=
+/home/digital032674/scala-kata-2-liampan/src/main/scala/example/teste4.scala -> 
 AAAAAAAAAAA=
 compilations:
-1 items
+2 items
 0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYOoF+K11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXi9Vc2Vycy9tZXcvcHJvamVjdHMvYWNhZGVteS9kZGNuX3RlY2hfYWNhZGVteV9zYnRfc2NhbGF0ZXN0X3RlbXBsYXRlL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYZjTDb11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9ob21lL2RpZ2l0YWwwMzI2NzQvc2NhbGEta2F0YS0yLWxpYW1wYW4vdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=

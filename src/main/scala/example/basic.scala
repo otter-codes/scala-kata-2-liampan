@@ -2,7 +2,7 @@ package example
 
 object basic extends App {
 
-  val StartNum: Int = 20
+  val StartNum: Int = 21
   var x = 1
   var list = List(StartNum)
 
@@ -20,6 +20,5 @@ object basic extends App {
 
     println(s"answer is ${collartz(StartNum)}")
     println(list)
-
 
 }
